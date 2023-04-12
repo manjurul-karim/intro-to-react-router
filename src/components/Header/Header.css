@@ -1,0 +1,15 @@
+.nav-bar a{
+    color:cornflowerblue;
+    margin-right: 15px;
+    
+}
+.nav-bar a:hover  {
+    font-size: larger;
+    color:orange
+}
+.nav-bar{
+    height:30px ;
+    background-color: blueviolet;
+    border: 2px solid khaki;
+   
+}
